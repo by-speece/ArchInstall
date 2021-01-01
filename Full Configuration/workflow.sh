@@ -1,4 +1,4 @@
-sudo pacman -Syu libreoffice-fresh libreoffice-fresh-pl gedit repose zsh chromium mpv youtube-dl discord calibre audacity screenkey obs-studio scribus krita rawtherapee htop gtop adapta-gtk-theme syncthing syncthing-gtk rhythmbox blueman bluez pavucontrol nautilus keepassxc dunst gnome-screenshot udiskie feh alacritty i3-gaps neofetch htop gtop inkscape gimp xdotool light ttf-bitstream-vera ttf-croscore ttf-dejavu gnu-free-fonts adobe-source-han-sans-jp-fonts  adobe-source-han-serif-jp-fonts otf-ipafont ttf-hanazono 
+sudo pacman -Syu lxappearnace-gtk3 signal-desktop polkit-gnome libreoffice-fresh libreoffice-fresh-pl gedit repose zsh chromium mpv youtube-dl discord calibre audacity screenkey obs-studio scribus krita rawtherapee htop gtop adapta-gtk-theme syncthing syncthing-gtk rhythmbox blueman bluez pavucontrol nautilus keepassxc dunst gnome-screenshot udiskie feh alacritty i3-gaps neofetch htop gtop inkscape gimp xdotool light ttf-bitstream-vera ttf-croscore ttf-dejavu gnu-free-fonts adobe-source-han-sans-jp-fonts  adobe-source-han-serif-jp-fonts otf-ipafont ttf-hanazono 
 git clone https://aur.archlinux.org/yay.git 
 cd yay 
 makepkg -si
